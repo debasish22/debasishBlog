@@ -1,5 +1,5 @@
 ---
-title: Connect to Azure Blobs using Nodejs
+title: Manage blobs with JavaScript v12 SDK in Node.js
 date: 2021-04-13 18:30:00 +0000
 tags:
 - Azure
@@ -9,7 +9,8 @@ featuredimg: https://images.unsplash.com/photo-1573247318220-c2683ee87351?ixlib=
 summary: This Article explains how to connect to Azure storage using Nodejs
 
 ---
-To write a theme, create a `.vuepress/theme` directory in your docs root, and then create a `Layout.vue` file:
+IDE used for this sample - VS code 
+Dependencies used - @azure/storage-blob, @types/dotenv, dotenv
 
 ```
 .
